@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#blogheader {
+    background-color: orange;
+    color: cornsilk;
+    padding: 25px 0px;
+   
+
+
+
+}
+
+#blog-title{
+text-align: center;
+margin: 0px;
+font-size: 40px;
+color:white;
+ 
+}
+.flight{
+    margin-top: 60px  ;
+    margin-left: 100px;
+    
+}
+
+.flightformat{
+    border-radius: 50%;
+    width: 300px;
+    
+}
+.flightformat:hover{
+    width: 500px;
+    transition: width 3s ease;
+}
+.hotelformat:hover{
+    width: 500px;
+    transition: width 3s ease;
+}
+
+.hotelformat{
+    border-radius: 50%;
+    width: 300px;
+}
+.hotel{
+    margin-left: 600px;
+}
+
+.grid-container{
+    display: grid;
+    background-color: whitesmoke;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+.gride-image-container{
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    margin-bottom: 20px;
+
+}
+
+.leftmar{
+    margin-left: 10px;
+}
+.hotel-sub-header {
+    background-color: rgb(0, 255, 13);
+    color: cornsilk;
+    padding: 15px 0px;
+    color: black;
+    
+}
+#image-animation:hover{
+    width: 500px;
+    transition: width 3s ease;
+}
