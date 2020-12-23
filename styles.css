@@ -23,7 +23,7 @@ color:white;
 }
 .flight{
     margin-top: 60px  ;
-    margin-left: 100px;
+    margin-left: 400px;
     
 }
 
@@ -46,8 +46,8 @@ color:white;
     width: 300px;
 }
 .hotel{
-    margin-left: 400px;
-    margin-top: 60px;
+    margin-left: 100px;
+    margin-top: 30px;
 }
 
 .grid-container{
